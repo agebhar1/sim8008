@@ -29,9 +29,6 @@ Sim8008 is a Win32 based simulator for [Intel's 8008][8008] microprocessor with
 IDE and debugger (menu is only available in german). With [Wine][WineHQ] it runs
 fine under Linux.
 
-Download latest version (2.1.1) as [zip archive][binary].
-
 
 [8008]: https://en.wikipedia.org/wiki/Intel_8008
 [WineHQ]: https://www.winehq.org/
-[binary]: http://www.imn.htwk-leipzig.de/~agebhar1/downloads/Sim8008_V2_1_1.zip
