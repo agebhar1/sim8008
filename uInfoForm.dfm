@@ -4427,7 +4427,7 @@ object InfoForm: TInfoForm
       BorderStyle = bsNone
       Color = clWhite
       Lines.Strings = (
-        'Copyright (c) 2003-2015 Andreas Gebhardt'
+        'Copyright (c) 2003-2021 Andreas Gebhardt'
         ''
         
           'Permission is hereby granted, free of charge, to any person obta' +
@@ -4489,7 +4489,7 @@ object InfoForm: TInfoForm
       Font.Name = 'Arial'
       Font.Style = []
       Lines.Strings = (
-        
+          '* November 17, 2021 - Release 2.1.1.1' + 
           '* November 22, 2015 - Release 2.1.1 (licensed under MIT, share v' +
           'ia GitHub)'
         '* June 06, 2008 - Release 2.1.0.3 (Open Project - Bugfix)'
